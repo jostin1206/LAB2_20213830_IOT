@@ -4,6 +4,6 @@
     <color name="white">#FFFFFFFF</color>
     <color name="verdeCorrecto">#C8E6C9</color> <!-- verde claro -->
     <color name="rojoIncorrecto">#FFCDD2</color> <!-- rojo claro -->
-    <color name="defaultButton">#FFFFFF</color>  <!-- blanco -->
+    <color name="defaultButton">#91FFFFFF</color>  <!-- blanco -->
 
 </resources>

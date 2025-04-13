@@ -78,7 +78,7 @@ public class MainActivity2 extends AppCompatActivity {
             if (indiceActual < preguntas.size()) {
                 mostrarPregunta();
             } else {
-                Toast.makeText(this, "¡Juego terminado! Puntaje: " + puntaje + "/5", Toast.LENGTH_LONG).show();
+                Toast.makeText(this, "¡Juego terminado! Puntaje: " + puntaje, Toast.LENGTH_LONG).show();
                 btnSiguiente.setEnabled(false);
                 opcion1.setEnabled(false);
                 opcion2.setEnabled(false);

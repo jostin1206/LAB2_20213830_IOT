@@ -76,6 +76,7 @@
 
     <Button
         android:id="@+id/opcion1"
+        android:textColor="@android:color/black"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:layout_marginHorizontal="24dp"
@@ -90,6 +91,7 @@
     <Button
         android:id="@+id/opcion2"
         android:layout_width="0dp"
+        android:textColor="@android:color/black"
         android:layout_height="wrap_content"
         android:layout_marginHorizontal="24dp"
         android:text="Opción 2"
@@ -104,6 +106,7 @@
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:layout_marginHorizontal="24dp"
+        android:textColor="@android:color/black"
         android:text="Opcion 3"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
